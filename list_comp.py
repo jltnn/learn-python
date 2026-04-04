@@ -22,4 +22,4 @@ if __name__ == '__main__':
     #the 2nd highest score so we use index [-2] to find it
     #we need to put a new line for array just because the problem
     #requires to list the scores as a list, not a set. If not
-    #we can just A = sorted(set(arr)) and remove line 15
+    #we can just A = sorted(set(arr)) and remove line 15s
